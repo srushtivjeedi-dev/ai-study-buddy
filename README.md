@@ -33,9 +33,6 @@ git clone https://github.com/srushtivjeedi-dev/ai-study-buddy.git
 - This project calls the Gemini API directly from the browser for simplicity — in a production environment, API calls like this should go through a backend server to keep the key private.
 - `config.js` is excluded from version control via `.gitignore` to protect the API key.
 
-## 📸 Screenshots
-
-*(Add a screenshot or two of your app here once deployed!)*
 
 ## 🔮 Possible Future Improvements
 
